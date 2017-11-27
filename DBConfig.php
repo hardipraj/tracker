@@ -2,7 +2,7 @@
  
 //Define your host here.
 //$HostName = "tracker-hardipraj.database.windows.net:1143";
-$HostName = "tcp:tracker-hardipraj.database.windows.net";
+$HostName = "tracker-hardipraj.database.windows.net:1143";
 
  
 //Define your database name here.
